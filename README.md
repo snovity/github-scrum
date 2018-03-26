@@ -1,3 +1,5 @@
+[On Chrome Web Store](https://chrome.google.com/webstore/detail/scrum-for-github/bbddfbjhpmibgcknmmgdinpncaibbfnd)
+
 ## Usage
 
 Add labels like: `1 point`, `2 points`, etc.
